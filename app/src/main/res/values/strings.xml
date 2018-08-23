@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Buddy Logger</string>
+    <string name="main_edit_text">type your logs</string>
+    <string name="main_header">Dynamic notes/string</string>
 </resources>
